@@ -1,5 +1,5 @@
-# Tourney Mod 1.15
-This is a general tournament mod for 1.15. Implementation is based on Seedcycle, MSL and Pre1.9 Racemod. This is a self-fork of [Tourney Mod 1.16](https://github.com/pixfumy/tourneymod116).
+# Tourney Mod 1.14
+This is a general tournament mod for 1.14. Implementation is based on Seedcycle, MSL and Pre1.9 Racemod. This is a self-fork of [Tourney Mod 1.15](https://github.com/pixfumy/tourneymod115) which in turn is a self-fork of [Tourney Mod 1.16](https://github.com/pixfumy/tourneymod116)
 
 ## Features
 
