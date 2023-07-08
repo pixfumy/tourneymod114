@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "${archivesBaseName}",
-  "description": "A general tournament mod for 1.15.",
+  "description": "A general tournament mod for 1.14.",
   "authors": [
     "pixfumy",
     "DuncanRuns"
