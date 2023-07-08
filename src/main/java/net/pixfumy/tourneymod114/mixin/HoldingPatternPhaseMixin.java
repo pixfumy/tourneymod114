@@ -1,4 +1,4 @@
-package net.pixfumy.tourneymod115.mixin;
+package net.pixfumy.tourneymod114.mixin;
 
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.entity.boss.dragon.phase.HoldingPatternPhase;

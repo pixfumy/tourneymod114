@@ -1,11 +1,10 @@
-package net.pixfumy.tourneymod115.mixin;
+package net.pixfumy.tourneymod114.mixin;
 
 import com.mojang.datafixers.DataFixer;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.world.level.LevelProperties;
-import net.pixfumy.tourneymod115.ILevelProperties;
-import net.pixfumy.tourneymod115.RNGStreamGenerator;
-import net.pixfumy.tourneymod115.TourneyMod115;
+import net.pixfumy.tourneymod114.ILevelProperties;
+import net.pixfumy.tourneymod114.RNGStreamGenerator;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;

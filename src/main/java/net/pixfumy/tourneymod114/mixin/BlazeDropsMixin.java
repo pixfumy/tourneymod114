@@ -1,4 +1,4 @@
-package net.pixfumy.tourneymod115.mixin;
+package net.pixfumy.tourneymod114.mixin;
 
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.damage.DamageSource;
@@ -13,8 +13,8 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 import net.minecraft.world.dimension.DimensionType;
-import net.pixfumy.tourneymod115.ILevelProperties;
-import net.pixfumy.tourneymod115.RNGStreamGenerator;
+import net.pixfumy.tourneymod114.ILevelProperties;
+import net.pixfumy.tourneymod114.RNGStreamGenerator;
 import org.spongepowered.asm.mixin.Mixin;
 
 import java.util.Random;

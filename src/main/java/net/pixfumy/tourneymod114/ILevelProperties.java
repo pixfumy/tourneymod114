@@ -1,4 +1,4 @@
-package net.pixfumy.tourneymod115;
+package net.pixfumy.tourneymod114;
 
 public interface ILevelProperties {
     RNGStreamGenerator getRNGStreamGenerator();

@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.pixfumy.tourneymod115.mixin",
+  "package": "net.pixfumy.tourneymod114.mixin",
   "compatibilityLevel": "JAVA_8",
   "client": [
     "BlazeDropsMixin",

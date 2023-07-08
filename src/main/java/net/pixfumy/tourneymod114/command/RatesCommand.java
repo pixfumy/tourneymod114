@@ -1,4 +1,4 @@
-package net.pixfumy.tourneymod115.command;
+package net.pixfumy.tourneymod114.command;
 
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.builder.LiteralArgumentBuilder;
@@ -6,7 +6,7 @@ import com.mojang.brigadier.context.CommandContext;
 import com.mojang.brigadier.exceptions.CommandSyntaxException;
 import net.minecraft.server.command.CommandManager;
 import net.minecraft.server.command.ServerCommandSource;
-import net.pixfumy.tourneymod115.SeedfinderUtil;
+import net.pixfumy.tourneymod114.SeedfinderUtil;
 
 public class RatesCommand {
     public static void register(CommandDispatcher<ServerCommandSource> dispatcher) {

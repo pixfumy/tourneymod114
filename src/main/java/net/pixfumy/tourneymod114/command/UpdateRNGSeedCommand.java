@@ -1,4 +1,4 @@
-package net.pixfumy.tourneymod115.command;
+package net.pixfumy.tourneymod114.command;
 
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.builder.LiteralArgumentBuilder;
@@ -10,8 +10,8 @@ import net.minecraft.server.command.ServerCommandSource;
 import net.minecraft.server.world.ServerWorld;
 import net.minecraft.text.LiteralText;
 import net.minecraft.world.dimension.DimensionType;
-import net.pixfumy.tourneymod115.ILevelProperties;
-import net.pixfumy.tourneymod115.RNGStreamGenerator;
+import net.pixfumy.tourneymod114.ILevelProperties;
+import net.pixfumy.tourneymod114.RNGStreamGenerator;
 
 import java.util.Random;
 

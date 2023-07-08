@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "tourneymod115",
+  "id": "tourneymod114",
   "version": "${version}",
 
-  "name": "Tourney Mod 1.15",
+  "name": "${archivesBaseName}",
   "description": "A general tournament mod for 1.15.",
   "authors": [
     "pixfumy",
@@ -12,23 +12,23 @@
   "contact": {
     "homepage": "https://github.com/pixfumy"
   },
-  "accessWidener" : "tourneymod115.accesswidener",
+  "accessWidener" : "tourneymod114.accesswidener",
 
-  "license": "CC0-1.0",
+  "license": "LGPL-3.0",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.pixfumy.tourneymod115.TourneyMod115"
+      "net.pixfumy.tourneymod114.TourneyMod114"
     ]
   },
   "mixins": [
-    "tourneymod115.mixins.json"
+    "tourneymod114.mixins.json"
   ],
 
   "depends": {
     "fabricloader": ">=0.12.12",
-    "minecraft": "1.15.2",
-    "java": ">=16"
+    "minecraft": "1.14.4",
+    "java": ">=8"
   }
 }
